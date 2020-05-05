@@ -8,3 +8,4 @@ close.addEventListener("click", toggleModal);
 function toggleModal() {
   modal.classList.toggle("is-open");
 }
+
